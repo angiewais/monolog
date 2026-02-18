@@ -31,6 +31,7 @@ README.md
 - Add badges for build status, version, license if appropriate
 - Keep content under 500 KiB (GitHub truncates beyond this)
 - Add emojis related to the information
+-Add some jokes to make the README more engaging and fun to read
 
 ### Technical Requirements
 
